@@ -1,0 +1,14 @@
+{
+  "name": "node-pgpromise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^10.3.1"
+  }
+}
